@@ -6,7 +6,7 @@
 
 * ssh -T git@github.com  //验证密钥是否绑定成功
     * 密钥绑定成功：现You have successfully authenticated, but GitHub does not provide shell access 
-
+* 有.git文件夹就可以版本控制
 ### 账户邮箱配置
 1. git config --global user.name "xuanmiao-zero"
 
