@@ -35,7 +35,7 @@
     1. git diff         //对比工作区和暂存区
     2. git diff --cached(--staged)     //对比暂存区和工作区
     3. git diff master //对比版本区和暂存区
-4. 撤销
+10. 撤销
     1. git reset HEAD <fileName>    //撤销暂存区提交
     2. git checkout --<fileName>    //丢弃工作区的修改
     4. 彻底删除本地某个版本
